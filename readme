@@ -22,3 +22,12 @@ needed/wanted instead of making new worlds. Just rm current regions, plop em
 down, and start over.
 
 I'll start files, in org, for each fort, in ./fortresses.
+
+I have a feeling I approached saving these worlds the wrong way, and could have
+just used the worldgen seeds. Eh, next time.
+
+Installed the linux version of LNP. It uses 43, I made these worlds on 44. I
+can't seem to transfer them into LNP, probably due to the version mismatch. 
+
+So, I'll need to create another world in LNP. This time, I'll transfer to here only the
+worldgen info for the world.
