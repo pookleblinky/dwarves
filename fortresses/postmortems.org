@@ -1,0 +1,3 @@
+Every fortress dies, often in gory fashion. Here's where I do a postmortem on them.
+
+* Amostotten
