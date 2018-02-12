@@ -12,8 +12,6 @@ can happen by fucking up is FUN or having to redo work. Both are preferable to
 having a huge clutter of save folders and files in a maze of twisty folders that
 all look alike.
 
-So: I probably won't be using this anywhere near as often as I thought I would.
-
 I created a folder called regions. Once a world is built, I'll add it and rename
 by Name-Mode. The one being made now is gonna be Somkar-Advent, for instance.
 
@@ -23,14 +21,9 @@ down, and start over.
 
 I'll start files, in org, for each fort, in ./fortresses.
 
-I have a feeling I approached saving these worlds the wrong way, and could have
-just used the worldgen seeds. Eh, next time.
+I originally saved the whole damn worlds. Switched them out for just the
+worldgen parameters, cutting out 60MB of space. Discovered this mistake when I
+installed LNP and found I couldn't transfer the worlds. I created a brand new world in LNP, named Issunitom. I'm including only the worldgen parameters, not the full goddam world like I did with my first two.
 
-Installed the linux version of LNP. It uses 43, I made these worlds on 44. I
-can't seem to transfer them into LNP, probably due to the version mismatch. 
-
-So, I'll need to create another world in LNP. This time, I'll transfer to here only the
-worldgen info for the world.
-
-Done. I created a brand new world in LNP, named Issunitom. I'm including only
-the worldgen parameters, not the full goddam world like I did with my first two.
+>>'d the worldgens to LNP's worldgen.txt, and included it here. Gonna back up
+original, plop in the updated one, and see if I can move some worlds.

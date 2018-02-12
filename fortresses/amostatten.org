@@ -1,0 +1,63 @@
+* Site: Amostotten
+Woody, temperate, 3 small ponds, flat. No aquifer, no saltwater, didn't
+bother checking for other things.
+* Dwarves
+** Kol, miner
+** Stodir, woodworker
+** Ducim, woodcutter
+** Sarvesh, stoneworker
+Now a miner. Now back to masonry, buddy.
+** As, expedition leader
+Jewelery, may as well keep
+** Mistem, fish cleaner
+Not anymore, now a crafter
+** Zasit, fisher
+Not anymore, now general purpose farmer
+* First actions
+** Corpse/refuse pit
+** Pasture/pen
+** ~10 trees, outside woodpile
+** farm, still, main stairwell, general stockpile 1st level
+** Seed stockpile near farm, forbade seeds in general pile
+** Chopping more trees
+   Forbade trees in outside pile, made it give to inside one.
+** Wood stocks near carpenter, other materials furniture nearby
+** Individual tiny bedrooms, waiting on beds
+** Dug stairwell down to granit layer, ~10 layers in. 
+** Saved.
+Big granite room being dug. 3 dwarves were idling, added carpentry to
+one of the useless-for-now fishers. Carpentry going slowly. 
+
+Once the granite workshop room is done, I'll create secondary
+workshops down there and start digging for materials.
+
+Need: mason's getting up and running to make stone doors, blocks, and
+materials for furnace etc
+* Next steps
+** Dismantled noncarpenter shops, built new ones in granite room.
+** Used extra space freed for big woodpile
+** Added crafts and wood furnace
+** Plump helmets came in. Made a drink stockpile nearby, set brew on repeat.
+** Repeat order for barrels.
+** Drink stockpile in meeting area, 3x3. 
+** Plant stockpile near farm/still, 1x6
+** Craftsdwarf: make rock pots on repeat
+** Made bedrooms for everyone
+** Big ol stockroom attached to granite workshop room
+** Metal ore stockpile
+** Economic ore stockpile
+** other ore pile (clay, etc) combined
+** Block pile for everything but ash/charcoal
+** Designated expansion near farm for plant stockpile
+   Everything plant except for seeds
+** Furniture/siege stockpile, only stone
+** Big ol finished goods pile in center of granite workshop room
+** Ash/coal stockpile near furnace
+** Made entrance door
+** One level below granite, mica. Hotkeyed, dig for stone resources
+** Saved
+Drinks are still not being made fast enough.
+
+
+* Postmortem
+
