@@ -1,0 +1,35 @@
+I installed LNP. Oh damn, it is nice. Much faster, and I haven't even
+touched most of it yet.
+
+Before >>'ing my other fortresses to its world_gen.txt, I created a
+world, Ossunitom. Embarked to Koganam.
+
+I now have Dwarf Therapist and DFHack. Gonna use em for the first time
+on this trial disaster
+
+Note to self: mod4p-shift-[1-9] to move all the windows to its own
+workspace to keep things organized on xmonad.
+
+* Site
+* Dwarves
+** Alath, Miner, expedition leader
+** Bomrek, Miner
+** Ducim, Woodcutter
+** Minkot, planter
+** Tun, Hunter
+** Zan, mason
+** Zulban, butcher
+* First Actions
+Corpse/refuse pit, pasture, tree chop, plant gather, general
+stockpile, seed stockpile near drink stockpile near farm etc.
+
+Made carpenter/mason shops first. Wood/stone stockpiles filling rest
+of room. 
+
+Carpenter: beds, chairs, tables, barrels, cabinets, wheelbarrows, bins
+Mason: blocks, door
+
+And save. Good lord these mods make the game so much nicer. Gonna
+switch up graphics now after the save.
+
+Favorites: ascii, mayday, obsidian, spacefox, tergel, ironmind, and wanderlust.
