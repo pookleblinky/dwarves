@@ -25,5 +25,5 @@ I originally saved the whole damn worlds. Switched them out for just the
 worldgen parameters, cutting out 60MB of space. Discovered this mistake when I
 installed LNP and found I couldn't transfer the worlds. I created a brand new world in LNP, named Issunitom. I'm including only the worldgen parameters, not the full goddam world like I did with my first two.
 
->>'d the worldgens to LNP's worldgen.txt, and included it here. Gonna back up
-original, plop in the updated one, and see if I can move some worlds.
+>>'d the worldgens to LNP's, and successfully recreated them. Woot, I have moved
+a world.
