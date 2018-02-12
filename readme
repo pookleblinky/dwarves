@@ -1,0 +1,24 @@
+I originally thought I'd backup a dwarf, or a fortress. 
+
+After seeing how confusing the save process is, and playing a bit of both, I
+decided to switch it up.
+
+I deleted all the regions and saves, starting from scratch.
+
+Now, I am going to create 2 worlds. One for adventuring, one for fortressing.
+
+autosave/backup: none. I'll have to remember to save periodically. The most that
+can happen by fucking up is FUN or having to redo work. Both are preferable to
+having a huge clutter of save folders and files in a maze of twisty folders that
+all look alike.
+
+So: I probably won't be using this anywhere near as often as I thought I would.
+
+I created a folder called regions. Once a world is built, I'll add it and rename
+by Name-Mode. The one being made now is gonna be Somkar-Advent, for instance.
+
+Then, I can just start from almost-scratch, reusing these worlds as
+needed/wanted instead of making new worlds. Just rm current regions, plop em
+down, and start over.
+
+I'll start files, in org, for each fort, in ./fortresses.
