@@ -33,3 +33,17 @@ And save. Good lord these mods make the game so much nicer. Gonna
 switch up graphics now after the save.
 
 Favorites: ascii, mayday, obsidian, spacefox, tergel, ironmind, and wanderlust.
+
+Dwarf therapist connects to my vanilla DF. Gonna check if DFHack does
+too. Nope. Gonna copy the script over to the vanilla DF.
+
+Since I'm also exploring the LNP, I'm not going to comment that much
+on this fortress.
+* Postmortem
+Retired due to bug. Apparently, switching the graphics pack somehow
+changed the raws of the barrels/plump helmets or such, breaking the
+still. The still was surrounded by plump helmets and barrels, 2 people
+were brewers, everything was set up perfectly but they couldn't find
+unrotten plants.
+
+Next time: Choose a graphics pack, stick with it the entire run.

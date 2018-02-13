@@ -1,3 +1,11 @@
 Every fortress dies, often in gory fashion. Here's where I do a postmortem on them.
 
 * Amostotten
+* Koganum
+First LNP fortress. Retired due to bug with graphics packs: switching
+them changed the plump helmets or barrels, breaking the still. Despite
+2 brewers, a field full of plump helmets, plenty of barrels, the still
+couldn't find unrotten plants. 
+
+Next time, stick with one graphics pack for each run. Change it up for
+each fortress, maybe.

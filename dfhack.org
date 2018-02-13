@@ -8,3 +8,10 @@ only 2 small differences: something about kitchen keys.
 
 Now to see if I can simply plop over df_extras.init. Hm, Multilevel's not a
 recognized command, removing. Other than that it seems like it works perfectly.
+
+I also installed Dwarf Therapist into my formerly vanilla DF. 
+
+I have a fish function called dwarf that aliases to the df executable. I have
+another called dwarfshrink, that aliases to dwarftherapist. I can't seem to get
+them both to run together, only sequentially. I have to manually start up dwarf
+therapist after opening dfhack.
