@@ -35,3 +35,8 @@ plopped it in. Still unknown game version. Aha, accidentally plopped into just
 memory_layouts. Moved into memory_layouts/linux where it should be, and upon
 connecting it downloaded the right layout into memory_layouts/share/linux and
 connected without a hitch. Woot.
+
+cp'd twbt.plug.so from old lnp to new, gonna see if that works. Yep, seems to.
+
+Now: peridexiserrant.txt seems to not be working. Getting an error in TkTinker:
+interface.txt missing from baselines. Moving it over now and... it loaded.
