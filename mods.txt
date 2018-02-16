@@ -29,3 +29,9 @@ even though it was doing it perfectly earlier. TWBT also throwing up an error
 where before it wasn't. Hm. 39.2 therapist should connect to 44.05 according to
 its git readme, and I've seen it do it. I suspect the checksum just isn't
 matching for some reason.
+
+Grabbed v44.05 memory layout from Dwarf-Therapist/Dwarf-Therapist on github,
+plopped it in. Still unknown game version. Aha, accidentally plopped into just
+memory_layouts. Moved into memory_layouts/linux where it should be, and upon
+connecting it downloaded the right layout into memory_layouts/share/linux and
+connected without a hitch. Woot.
