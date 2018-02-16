@@ -23,3 +23,7 @@ changed fish function to point to the new startlnp.
 Imported from both previous versions, it seems to have gone off without a hitch.
 Some of the graphics packs are not available due to their manifests saying the
 max version is lower than 44.05, but I use Bisasam ascii so eh.
+
+Hm, spoke too soon. Therapist now says it doesn't know how to connect to 44.05,
+even though it was doing it perfectly earlier. TWBT also throwing up an error
+where before it wasn't. Hm.
