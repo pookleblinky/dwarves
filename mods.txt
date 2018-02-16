@@ -40,3 +40,24 @@ cp'd twbt.plug.so from old lnp to new, gonna see if that works. Yep, seems to.
 
 Now: peridexiserrant.txt seems to not be working. Getting an error in TkTinker:
 interface.txt missing from baselines. Moving it over now and... it loaded.
+
+Rough steps to reproduce:
+
+1. Download Enay's LNP. It'll be version
+43.05 https://github.com/Lazy-Newb-Pack/Lazy-Newb-Pack-Linux
+2. Download vanilla DF: http://www.bay12games.com/dwarves/df_44_05_linux.tar.bz2
+3. Download DFhack https://github.com/DFHack/dfhack/releases
+4. Unpack DFhack into 44.05 df_linux
+5. Add onMapload init etc from LNP into the vanilla DF.
+6. Replace LNP's df_linux with 44.05 df_linux
+7. Grab 44.05 memory layout ini for Dwarf Therapist from
+https://github.com/Dwarf-Therapist/Dwarf-Therapist/tree/master/share/memory_layouts/linux
+8. Grab the latest AppImage release of Dwarf Therapist from
+https://github.com/Dwarf-Therapist/Dwarf-Therapist/releases/tag/v39.2.0
+9. Replace dwarf therapist executable with AppImage
+10. Add 44.05 memory layout ini to
+dwarf_therapist/share/dwarftherapist/memorylayouts/linux
+11. Check to make sure LNP/baselines contains vanilla interface.txt
+12. Check to make sure df_linux/hack/plugins contains twbt.plug.so executable
+13. Sacrifice goat to elder gods
+14. You should now have DF 44.05 running with latest Dwarf Therapist
