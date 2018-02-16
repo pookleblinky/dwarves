@@ -7,7 +7,7 @@ bunch of worlds, goofed off.
 
 I discovered that Therapist could connect to my original DF, not just the 43.05
 version it came with. Cp'd over that and dfhack into 44.05, and it worked
-perfectly.
+perfectly. Updated therapist to 39.2 via appimage, worked fine.
 
 Now I had two separate versions, one mostly vanilla and one as an LNP.
 
@@ -26,4 +26,6 @@ max version is lower than 44.05, but I use Bisasam ascii so eh.
 
 Hm, spoke too soon. Therapist now says it doesn't know how to connect to 44.05,
 even though it was doing it perfectly earlier. TWBT also throwing up an error
-where before it wasn't. Hm.
+where before it wasn't. Hm. 39.2 therapist should connect to 44.05 according to
+its git readme, and I've seen it do it. I suspect the checksum just isn't
+matching for some reason.
