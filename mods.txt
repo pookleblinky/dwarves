@@ -1,0 +1,25 @@
+I started out with a basic df_linux-44.05.
+
+Made a bunch of worlds, goofed off.
+
+Then I installed Enay's LNP. Fell in love with the enhanced performance. Made a
+bunch of worlds, goofed off.
+
+I discovered that Therapist could connect to my original DF, not just the 43.05
+version it came with. Cp'd over that and dfhack into 44.05, and it worked
+perfectly.
+
+Now I had two separate versions, one mostly vanilla and one as an LNP.
+
+mkdir LNP-44.05
+rm df_linux from that
+mv 44.05 df_linux into it
+
+And bam, LNP runs on 44.05 seemingly without a hitch.
+
+mv'd both previous versions to an external turtle folder, DFbackups, just in case. Then
+changed fish function to point to the new startlnp.
+
+Imported from both previous versions, it seems to have gone off without a hitch.
+Some of the graphics packs are not available due to their manifests saying the
+max version is lower than 44.05, but I use Bisasam ascii so eh.
