@@ -30,3 +30,11 @@ a world.
 
 Anyway. To build these worlds, >> them to world_gen.txt and build with advanced
 parameters.
+
+key:
+
+advent, fort: what they sound like
+
+gp: general purposes worlds
+
+testbed: Specifically for messing with stuff
