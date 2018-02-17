@@ -23,7 +23,9 @@ I'll start files, in org, for each fort, in ./fortresses.
 
 I originally saved the whole damn worlds. Switched them out for just the
 worldgen parameters, cutting out 60MB of space. Discovered this mistake when I
-installed LNP and found I couldn't transfer the worlds. I created a brand new world in LNP, named Issunitom. I'm including only the worldgen parameters, not the full goddam world like I did with my first two.
+installed LNP and found I couldn't transfer the worlds. I created a brand new
+world in LNP, named Issunitom. I'm including only the worldgen parameters, not
+the full goddam world like I did with my first two.
 
 >>'d the worldgens to LNP's, and successfully recreated them. Woot, I have moved
 a world.
@@ -38,3 +40,6 @@ advent, fort: what they sound like
 gp: general purposes worlds
 
 testbed: Specifically for messing with stuff
+
+saves folder: If I come across a cool embark location, or find an interesting
+problem, I may upload it. It depends on whether it's worth uploading.
