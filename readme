@@ -3,43 +3,16 @@ I originally thought I'd backup a dwarf, or a fortress.
 After seeing how confusing the save process is, and playing a bit of both, I
 decided to switch it up.
 
-I deleted all the regions and saves, starting from scratch.
+---------------
 
-Now, I am going to create 2 worlds. One for adventuring, one for fortressing.
+Folders
+fortresses.org: Logs of notable fortresses, with various levels of detail
+Worlds are named by Name-Mode (advent, fort, legend, general purpose, etc)
+regions: world-gen-params for various worlds saves: If I come across a cool
+embark location or encounter an interesting problem, I may upload the save.
+Depends on whether it's worth uploading.
 
-autosave/backup: none. I'll have to remember to save periodically. The most that
-can happen by fucking up is FUN or having to redo work. Both are preferable to
-having a huge clutter of save folders and files in a maze of twisty folders that
-all look alike.
-
-I created a folder called regions. Once a world is built, I'll add it and rename
-by Name-Mode. The one being made now is gonna be Somkar-Advent, for instance.
-
-Then, I can just start from almost-scratch, reusing these worlds as
-needed/wanted instead of making new worlds. Just rm current regions, plop em
-down, and start over.
-
-I'll start files, in org, for each fort, in ./fortresses.
-
-I originally saved the whole damn worlds. Switched them out for just the
-worldgen parameters, cutting out 60MB of space. Discovered this mistake when I
-installed LNP and found I couldn't transfer the worlds. I created a brand new
-world in LNP, named Issunitom. I'm including only the worldgen parameters, not
-the full goddam world like I did with my first two.
-
->>'d the worldgens to LNP's, and successfully recreated them. Woot, I have moved
-a world.
-
-Anyway. To build these worlds, >> them to world_gen.txt and build with advanced
-parameters.
-
-key:
-
-advent, fort: what they sound like
-
-gp: general purposes worlds
-
-testbed: Specifically for messing with stuff
-
-saves folder: If I come across a cool embark location, or find an interesting
-problem, I may upload it. It depends on whether it's worth uploading.
+Files
+mods.txt: How I've modded things.
+whims.org: Whims, such as going for microforts and fubared embarks or such
+world_gen.txt: >>'ing world seeds to a single file as I build em.
