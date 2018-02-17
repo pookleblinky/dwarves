@@ -70,3 +70,9 @@ support.
 No twbt so far. Installed the Linux Dwarf Pack from
 http://dffd.bay12games.com/file.php?id=13491 which does have twbt, but it's a
 bit sparse. Eh, it's an alternative if I feel like it. 
+
+Just tried it out. Ooh, twbt is nice when it's actually set up properly. Gemset
+is legible, not wingdings made out of birds. 
+
+Now importing from the frankenstein's dwarf. Hm. May also transfer over the
+embark profiles and such.
