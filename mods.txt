@@ -66,3 +66,7 @@ dwarf_therapist/share/dwarftherapist/memorylayouts/linux
 Sat Feb 17 12:55:42 EST 2018 
 Updated graphics packs from https://github.com/DFgraphics to allow 44.05
 support.
+
+No twbt so far. Installed the Linux Dwarf Pack from
+http://dffd.bay12games.com/file.php?id=13491 which does have twbt, but it's a
+bit sparse. Eh, it's an alternative if I feel like it. 
