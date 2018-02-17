@@ -76,3 +76,15 @@ is legible, not wingdings made out of birds.
 
 Now importing from the frankenstein's dwarf. Hm. May also transfer over the
 embark profiles and such.
+
+Looked, my data/save folder was already ~500mb. Way way too much cluttering
+autosaves which I will almost certainly never touch. mv'd all the -00* autosaves
+to turtle/DFbackups/autosaves with its 2tb of storage, checked again, 168mb.
+
+Doesn't seem to be a nice way of specifying a save folder, and the utility is
+low unless I've sunk a lot of time into a fort. So, turned off autosaves and
+autobackups.
+
+What I may do instead is make a script that'll check how old a fort is, and if
+past $age remind me that it'd be a good idea to start backing it up. No point in
+having hundreds of megs of <1 year old forts laying around.
