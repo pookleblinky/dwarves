@@ -1,0 +1,19 @@
+Sat Feb 17 11:15:58 EST 2018
+
+Right now I have a few forts in various worlds, all mostly just goofing around.
+One world is LNP Testbed, I'm using it for playing with DFhack and Therapist
+mechanics and such. 
+
+So, notable forts get their own orgfiles and postmortems. It's not that
+interesting to mention "killed fort about a month into its existence because I'd
+fucked up seed logistics."
+
+But what about the non-notable forts? The ones where I generate dwarves just to
+blip into existence, try out something, then cast back into the digital ether? I
+should log them somehow.
+
+Plan: toplevel FORT - DATE STARTED. If the fort's notable, it's gonna have its
+own org and I can just point to it. If it's a testbed fort, just describe what I
+was trying to test and how it worked out. 
+
+I may not do this for every fort, but I may as well try.
