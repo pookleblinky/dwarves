@@ -61,3 +61,8 @@ dwarf_therapist/share/dwarftherapist/memorylayouts/linux
 12. Check to make sure df_linux/hack/plugins contains twbt.plug.so executable
 13. Sacrifice goat to elder gods
 14. You should now have DF 44.05 running with latest Dwarf Therapist
+
+
+Sat Feb 17 12:55:42 EST 2018 
+Updated graphics packs from https://github.com/DFgraphics to allow 44.05
+support.

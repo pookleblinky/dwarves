@@ -1,1 +1,6 @@
-Sat Feb 17 11:35:41 EST 2018 Setting popcap to 30. Using exclusively 2x2 embarks
+Sat Feb 17 11:35:41 EST 2018 
+Setting popcap low, 15-50. Using exclusively 2x2 embarks. I want tiny forts.
+What I may do is bump up the popcap a bit over time, but I'd prefer to keep
+under dunbar's number in any case.
+
+
