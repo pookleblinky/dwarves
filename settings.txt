@@ -1,0 +1,11 @@
+Mon Feb 19 04:42:29 EST 2018
+
+Popcap: 30 
+strict popcap: 100
+childcap: 10:20
+
+Display: Ascii bisasam 20x20 ascii, 2d no truetype
+
+fps: 100 (50)
+
+saves: no autosave, no backup (doing that externally)
